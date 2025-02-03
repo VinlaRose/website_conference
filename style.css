@@ -794,3 +794,14 @@ nav li a:hover {
     display: flex;
   }
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(128, 128, 128, 0.5); /* Transparent grey */
+  color: white;
+  padding: 0;
+  height: 60px; /* Adjust height as needed */
+  text-align: center;
+}
